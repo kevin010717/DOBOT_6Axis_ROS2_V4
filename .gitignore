@@ -1,0 +1,18 @@
+# ROS 2 colcon build artifacts
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# MacOS / Linux 系统文件
+.DS_Store
+*.swp
