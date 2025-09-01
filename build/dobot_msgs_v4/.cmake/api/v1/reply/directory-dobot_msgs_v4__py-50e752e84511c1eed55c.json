@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "dobot_msgs_v4__py",
+		"source" : "/home/robot/DOBOT_6Axis_ROS2_V4/build/dobot_msgs_v4/dobot_msgs_v4__py"
+	}
+}

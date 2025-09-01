@@ -1,0 +1,4 @@
+Invoking command in '/home/robot/DOBOT_6Axis_ROS2_V4/build/dobot_msgs_v4': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2) /usr/bin/cmake --build /home/robot/DOBOT_6Axis_ROS2_V4/build/dobot_msgs_v4 -- -j18 -l18
+Invoked command in '/home/robot/DOBOT_6Axis_ROS2_V4/build/dobot_msgs_v4' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2) /usr/bin/cmake --build /home/robot/DOBOT_6Axis_ROS2_V4/build/dobot_msgs_v4 -- -j18 -l18
+Invoking command in '/home/robot/DOBOT_6Axis_ROS2_V4/build/dobot_msgs_v4': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2) /usr/bin/cmake --install /home/robot/DOBOT_6Axis_ROS2_V4/build/dobot_msgs_v4
+Invoked command in '/home/robot/DOBOT_6Axis_ROS2_V4/build/dobot_msgs_v4' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2) /usr/bin/cmake --install /home/robot/DOBOT_6Axis_ROS2_V4/build/dobot_msgs_v4

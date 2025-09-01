@@ -1,0 +1,23 @@
+-- Install configuration: ""
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/launch
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/launch/dobot_gazebo.launch.py
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/launch/gazebo_moveit.launch.py
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/worlds
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/worlds/cr.world
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/config
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/config/moveitcpp.rviz
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/ament_index/resource_index/package_run_dependencies/dobot_gazebo
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/ament_index/resource_index/parent_prefix_path/dobot_gazebo
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/environment/ament_prefix_path.sh
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/environment/ament_prefix_path.dsv
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/environment/path.sh
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/environment/path.dsv
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/local_setup.bash
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/local_setup.sh
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/local_setup.zsh
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/local_setup.dsv
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/package.dsv
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/ament_index/resource_index/packages/dobot_gazebo
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/cmake/dobot_gazeboConfig.cmake
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/cmake/dobot_gazeboConfig-version.cmake
+-- Installing: /home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_gazebo/share/dobot_gazebo/package.xml

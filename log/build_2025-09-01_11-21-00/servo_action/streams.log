@@ -1,0 +1,40 @@
+[1.080s] Invoking command in '/home/robot/DOBOT_6Axis_ROS2_V4/servo_action': CONDA_PROMPT_MODIFIER=(ros2) PYTHONPATH=/home/robot/DOBOT_6Axis_ROS2_V4/build/servo_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/servo_action build --build-base /home/robot/DOBOT_6Axis_ROS2_V4/build/servo_action/build install --record /home/robot/DOBOT_6Axis_ROS2_V4/build/servo_action/install.log --single-version-externally-managed install_data
+[1.915s] running egg_info
+[1.915s] creating ../build/servo_action/servo_action.egg-info
+[1.915s] writing ../build/servo_action/servo_action.egg-info/PKG-INFO
+[1.915s] writing dependency_links to ../build/servo_action/servo_action.egg-info/dependency_links.txt
+[1.915s] writing entry points to ../build/servo_action/servo_action.egg-info/entry_points.txt
+[1.915s] writing requirements to ../build/servo_action/servo_action.egg-info/requires.txt
+[1.915s] writing top-level names to ../build/servo_action/servo_action.egg-info/top_level.txt
+[1.916s] writing manifest file '../build/servo_action/servo_action.egg-info/SOURCES.txt'
+[1.916s] reading manifest file '../build/servo_action/servo_action.egg-info/SOURCES.txt'
+[1.916s] writing manifest file '../build/servo_action/servo_action.egg-info/SOURCES.txt'
+[1.916s] running build
+[1.916s] running build_py
+[1.916s] creating /home/robot/DOBOT_6Axis_ROS2_V4/build/servo_action/build
+[1.916s] creating /home/robot/DOBOT_6Axis_ROS2_V4/build/servo_action/build/lib
+[1.916s] creating /home/robot/DOBOT_6Axis_ROS2_V4/build/servo_action/build/lib/servo_action
+[1.916s] copying servo_action/action_move_client.py -> /home/robot/DOBOT_6Axis_ROS2_V4/build/servo_action/build/lib/servo_action
+[1.916s] copying servo_action/__init__.py -> /home/robot/DOBOT_6Axis_ROS2_V4/build/servo_action/build/lib/servo_action
+[1.916s] copying servo_action/Joint_Position.py -> /home/robot/DOBOT_6Axis_ROS2_V4/build/servo_action/build/lib/servo_action
+[1.916s] running install
+[1.916s] running install_lib
+[1.916s] creating /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/lib/python3.10/site-packages/servo_action
+[1.916s] copying /home/robot/DOBOT_6Axis_ROS2_V4/build/servo_action/build/lib/servo_action/action_move_client.py -> /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/lib/python3.10/site-packages/servo_action
+[1.916s] copying /home/robot/DOBOT_6Axis_ROS2_V4/build/servo_action/build/lib/servo_action/__init__.py -> /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/lib/python3.10/site-packages/servo_action
+[1.916s] copying /home/robot/DOBOT_6Axis_ROS2_V4/build/servo_action/build/lib/servo_action/Joint_Position.py -> /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/lib/python3.10/site-packages/servo_action
+[1.917s] byte-compiling /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/lib/python3.10/site-packages/servo_action/action_move_client.py to action_move_client.cpython-310.pyc
+[1.917s] byte-compiling /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/lib/python3.10/site-packages/servo_action/__init__.py to __init__.cpython-310.pyc
+[1.917s] byte-compiling /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/lib/python3.10/site-packages/servo_action/Joint_Position.py to Joint_Position.cpython-310.pyc
+[1.917s] running install_data
+[1.917s] creating /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/share/ament_index
+[1.917s] creating /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/share/ament_index/resource_index
+[1.917s] creating /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/share/ament_index/resource_index/packages
+[1.917s] copying resource/servo_action -> /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/share/ament_index/resource_index/packages
+[1.917s] copying package.xml -> /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/share/servo_action
+[1.917s] running install_egg_info
+[1.917s] Copying ../build/servo_action/servo_action.egg-info to /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/lib/python3.10/site-packages/servo_action-0.0.0-py3.10.egg-info
+[1.917s] running install_scripts
+[1.917s] Installing Joint_Position script to /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/lib/servo_action
+[1.917s] Installing action_move_client script to /home/robot/DOBOT_6Axis_ROS2_V4/install/servo_action/lib/servo_action
+[1.917s] writing list of installed files to '/home/robot/DOBOT_6Axis_ROS2_V4/build/servo_action/install.log'

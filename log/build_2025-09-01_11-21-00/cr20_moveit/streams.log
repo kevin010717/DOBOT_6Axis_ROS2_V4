@@ -1,0 +1,18 @@
+[0.037s] Invoking command in '/home/robot/DOBOT_6Axis_ROS2_V4/build/cr20_moveit': AMENT_PREFIX_PATH=/home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_rviz:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/robot/DOBOT_6Axis_ROS2_V4/install/dobot_rviz:/opt/ros/humble CONDA_PROMPT_MODIFIER=(ros2) /usr/bin/cmake /home/robot/DOBOT_6Axis_ROS2_V4/cr20_moveit -DCMAKE_INSTALL_PREFIX=/home/robot/DOBOT_6Axis_ROS2_V4/install/cr20_moveit
+[0.111s] -- The C compiler identification is GNU 11.4.0
+[0.183s] -- The CXX compiler identification is GNU 11.4.0
+[0.193s] -- Detecting C compiler ABI info
+[0.267s] -- Detecting C compiler ABI info - done
+[0.277s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.277s] -- Detecting C compile features
+[0.277s] -- Detecting C compile features - done
+[0.281s] -- Detecting CXX compiler ABI info
+[0.370s] -- Detecting CXX compiler ABI info - done
+[0.375s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.375s] -- Detecting CXX compile features
+[0.376s] -- Detecting CXX compile features - done
+[0.378s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.808s] -- Found Python3: /home/robot/miniconda3/envs/ros2/bin/python3 (found version "3.10.18") found components: Interpreter 
+[1.076s] -- Configuring done
+[1.080s] -- Generating done
+[1.082s] -- Build files have been written to: /home/robot/DOBOT_6Axis_ROS2_V4/build/cr20_moveit

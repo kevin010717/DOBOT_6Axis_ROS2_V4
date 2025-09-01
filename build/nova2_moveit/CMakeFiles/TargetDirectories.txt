@@ -1,0 +1,9 @@
+/home/robot/DOBOT_6Axis_ROS2_V4/build/nova2_moveit/CMakeFiles/uninstall.dir
+/home/robot/DOBOT_6Axis_ROS2_V4/build/nova2_moveit/CMakeFiles/nova2_moveit_uninstall.dir
+/home/robot/DOBOT_6Axis_ROS2_V4/build/nova2_moveit/CMakeFiles/test.dir
+/home/robot/DOBOT_6Axis_ROS2_V4/build/nova2_moveit/CMakeFiles/edit_cache.dir
+/home/robot/DOBOT_6Axis_ROS2_V4/build/nova2_moveit/CMakeFiles/rebuild_cache.dir
+/home/robot/DOBOT_6Axis_ROS2_V4/build/nova2_moveit/CMakeFiles/list_install_components.dir
+/home/robot/DOBOT_6Axis_ROS2_V4/build/nova2_moveit/CMakeFiles/install.dir
+/home/robot/DOBOT_6Axis_ROS2_V4/build/nova2_moveit/CMakeFiles/install/local.dir
+/home/robot/DOBOT_6Axis_ROS2_V4/build/nova2_moveit/CMakeFiles/install/strip.dir
